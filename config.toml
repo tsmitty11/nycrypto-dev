@@ -1,0 +1,3 @@
+baseURL = 'https://nycrypto.netlify.app/'
+languageCode = 'en-us'
+title = 'NYCrypto'
