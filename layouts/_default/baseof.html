@@ -7,6 +7,7 @@
   <link rel="stylesheet" href="{{ "css/tailwind.css" | relURL }}">
 </head>
 <body>
+  {{ partial "header.html" }}    
   {{ block "main" . }}{{ end }}
   <script src="{{ "node_modules/flowbite/dist/flowbite.js" | relURL }}"></script>
 </body>
