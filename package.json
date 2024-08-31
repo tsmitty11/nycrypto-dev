@@ -1,0 +1,26 @@
+{
+  "name": "nycrypto-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsmitty11/nycrypto-dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsmitty11/nycrypto-dev/issues"
+  },
+  "homepage": "https://github.com/tsmitty11/nycrypto-dev#readme",
+  "dependencies": {
+    "autoprefixer": "^10.4.20",
+    "flowbite": "^2.5.1",
+    "postcss": "^8.4.41",
+    "tailwindcss": "^3.4.10"
+  }
+}
