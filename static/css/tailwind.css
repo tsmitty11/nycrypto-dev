@@ -1695,6 +1695,11 @@ input:checked + .toggle-bg {
   background-color: rgb(59 130 246 / var(--tw-bg-opacity));
 }
 
+.bg-\[\#1A222C\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(26 34 44 / var(--tw-bg-opacity));
+}
+
 .p-1 {
   padding: 0.25rem;
 }
@@ -1789,6 +1794,11 @@ input:checked + .toggle-bg {
   padding-bottom: 1rem;
 }
 
+.px-8 {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
 .pl-10 {
   padding-left: 2.5rem;
 }
@@ -1874,6 +1884,11 @@ input:checked + .toggle-bg {
 .text-base {
   font-size: 1rem;
   line-height: 1.5rem;
+}
+
+.text-5xl {
+  font-size: 3rem;
+  line-height: 1;
 }
 
 .font-extrabold {
