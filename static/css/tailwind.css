@@ -1214,6 +1214,10 @@ input:checked + .toggle-bg {
   margin-inline-start: 0.5rem;
 }
 
+.ml-1 {
+  margin-left: 0.25rem;
+}
+
 .block {
   display: block;
 }
@@ -1286,6 +1290,10 @@ input:checked + .toggle-bg {
   height: 0.875rem;
 }
 
+.h-2\.5 {
+  height: 0.625rem;
+}
+
 .w-1\/2 {
   width: 50%;
 }
@@ -1344,6 +1352,10 @@ input:checked + .toggle-bg {
 
 .w-3\.5 {
   width: 0.875rem;
+}
+
+.w-2\.5 {
+  width: 0.625rem;
 }
 
 .max-w-screen-xl {
@@ -2502,6 +2514,11 @@ input:checked + .toggle-bg {
   .md\:text-blue-700 {
     --tw-text-opacity: 1;
     color: rgb(26 86 219 / var(--tw-text-opacity));
+  }
+
+  .md\:text-primary-500 {
+    --tw-text-opacity: 1;
+    color: rgb(59 130 246 / var(--tw-text-opacity));
   }
 
   .md\:hover\:bg-transparent:hover {
